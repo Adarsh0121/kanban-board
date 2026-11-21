@@ -29,4 +29,4 @@ A simple Kanban task board where you can add tasks, drag them between columns, a
 - DOM manipulation using JavaScript
 
 ## 🔗 Live Demo
-👉 [adarsh0121.github.io/kanban-board/]
+👉 [https://adarsh0121.github.io/kanban-board/]
