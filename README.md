@@ -27,3 +27,6 @@ A simple Kanban task board where you can add tasks, drag them between columns, a
 - Working with the HTML Drag and Drop API
 - Saving and loading data with localStorage
 - DOM manipulation using JavaScript
+
+## 🔗 Live Demo
+👉 [adarsh0121.github.io/kanban-board/]
